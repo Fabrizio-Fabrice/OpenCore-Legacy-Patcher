@@ -26,7 +26,7 @@ For this example, we'll assume you'll need an installer. Select the "Download ma
 
 Once the download is finished, you can proceed to write the installer onto a USB drive.
 
-* Note: The entire USB drive will be formatted
+* Note: The entire USB drive will be formatted MacOS Extended, and overwrites even an unmounted APFS volume. The entire device is erased.
 
 | Select Downloaded Installer | Select disk to format |
 | :--- | :--- |
